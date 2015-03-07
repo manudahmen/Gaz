@@ -1,4 +1,4 @@
-Gaz 07-03-2015 à 01h00... http://
+Gaz 07-03-2015 à 01h00... https://github.com/mdahmen/Gaz/blob/master/README.md
  Les aventures du ver annelé (sans sexe et sans violence) Jeu
 
 Afin de m'encourager moi-même à développer ce jeu de la meilleure manière et d'obtenir un bon résultat, je vais tenter de le décrire, de décrire la conception future.

@@ -39,7 +39,7 @@ Schématisation écrite des 20 premiers niveaux.
 
 * Niveau bonus.
 
-* 16-20 Métal. Des plaques de métal sont soudées avec des vis. Le ver a un allié bricoleur qu'il doit projeter avec sa tête sur son lieu de travail. Pour ces niveaux, la tête est plate et "horizontale". Un travailleur n'a droit qu'à une chance et un certain nombre de chances sont accordées au ver. Par exemple pour 4 vis, 4 travailleurs ou plus - ce n'est pas de la paresse c'est un jeu imaginaire. 
+* 16-20 Métal. Des plaques de métal sont soudées avec des vis. Le ver a un allié bricoleur qu'il doit projeter avec sa tête sur son lieu de travail. Pour ces niveaux, la tête est plate et "horizontale". Un travailleur n'a droit qu'à une chance et un certain nombre de chances sont accordées au ver. Par exemple pour 4 vis, 4 travailleurs ou plus - ce n'est pas de la paresse - encore moins da politique c'est un jeu extraordinaire. 
 
 
 Pour schématiser, on pourrait accorder une matière à chaque boîte (dans les 20 premiers répartis 5 à cinq). 
@@ -54,3 +54,10 @@ Graphique
 - Un fond d'écran, pas seulement une couleur, image, ou vidéo, avec  effet spécial dessus éventuellement.
 Propriété du ver et des éléments d' "alimentation"
 3 sortes de pillules décrites en partie plus haut &loz;
+
+
+Comment évaluer la diffultés d'un niveau et la faire progressive? Aspect pragmatique: erreurs sur nombre d'essai (qui est cobbaye pour tester ? Le programmeur?
+
+Idée ( je me gratte ma tête) : pratiquer des ouvertures pour gagner du temps, (le gaz s'échappe laissant respirer le ver).
+
+Le ver ne doit pas accumuler de l'argent et peter un score, mais collectionner des objets, pin's ou autres, chaque niveau a son ou objets. Trophée en vertu d'un bon résultat, d'une grande vitesse d'exécution, d'une économie de moyens.

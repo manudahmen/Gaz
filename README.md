@@ -60,3 +60,7 @@ Le ver ne doit pas accumuler de l'argent et péter un score, mais collectionner 
 Commencer par le niveau 0 : conception et animations, test du ver. 
 Conception: couleurs des anneaux et de la tête.
 Animation : prendre une pilulle? effet visible.
+
+A chaue niveau est associé une musique, à chaque action un son. Essayer d'utiliser le modèle de POO pour ces éléments. Etre souple au niveau du format (WAV, MP3). Pas de musique qui s'éternise.
+
+

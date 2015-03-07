@@ -64,3 +64,4 @@ Animation : prendre une pilulle? effet visible.
 A chaue niveau est associé une musique, à chaque action un son. Essayer d'utiliser le modèle de POO pour ces éléments. Etre souple au niveau du format (WAV, MP3). Pas de musique qui s'éternise.
 
 
+Power-and-Damages pourrait être adapté en carte de niveau.

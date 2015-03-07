@@ -51,4 +51,6 @@ Pour schématiser, on pourrait accorder une matière à chaque boîte (dans les 
 
 
 Graphique
-Propriété du ver et des él
+- Un fond d'écran, pas seulement une couleur, image, ou vidéo, avec  effet spécial dessus éventuellement.
+Propriété du ver et des éléments d' "alimentation"
+3 sortes de pillules décrites en partie plus haut &loz;

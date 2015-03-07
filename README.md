@@ -1,5 +1,7 @@
-Gaz 07-03-2015 à 01h00... https://github.com/mdahmen/Gaz/blob/master/README.md
- Les aventures du ver annelé (sans sexe et sans violence) Jeu
+#Gaz 07-03-2015 à 01h00... https://github.com/mdahmen/Gaz/blob/master/README.md
+
+
+Les aventures du ver annelé (sans sexe et sans violence) Jeu
 
 Afin de m'encourager moi-même à développer ce jeu de la meilleure manière et d'obtenir un bon résultat, je vais tenter de le décrire, de décrire la conception future.
 
@@ -54,3 +56,7 @@ Comment évaluer la difficultés d'un niveau et la faire progressive? Aspect pra
 Idée ( je me gratte ma tête) : pratiquer des ouvertures pour gagner du temps, (le gaz s'échappe laissant respirer le ver).
 
 Le ver ne doit pas accumuler de l'argent et péter un score, mais collectionner des objets, pin's ou autres, chaque niveau a son ou objets. Trophée en vertu d'un bon résultat, d'une grande vitesse d'exécution, d'une économie de moyens.
+
+Commencer par le niveau 0 : conception et animations, test du ver. 
+Conception: couleurs des anneaux et de la tête.
+Animation : prendre une pilulle? effet visible.
